@@ -1,7 +1,6 @@
 {
   "name": "cra-template-awesome-react",
   "version": "0.1.0",
-  "private": true,
   "keywords": [
     "awesome-react",
     "awesome-react-template",
