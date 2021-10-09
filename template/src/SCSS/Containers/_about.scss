@@ -1,0 +1,12 @@
+.about {
+	&__about {
+		height: calc(100vh - 5rem);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	&__title {
+		font-size: 3.5rem;
+		font-weight: 500;
+	}
+}

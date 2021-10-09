@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-awesome-react",
+  "version": "0.1.0",
+  "private": true,
+  "keywords": [
+    "awesome-react",
+    "awesome-react-template",
+    "create-react-app",
+    "create-react-app-template"
+  ],
+  "description": "The base template to create Awesome React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgautam320/Awesome-React.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

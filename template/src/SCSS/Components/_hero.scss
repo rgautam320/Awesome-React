@@ -1,0 +1,15 @@
+.hero {
+	&__title {
+		line-height: 12rem;
+		vertical-align: middle;
+		font-size: 3.5rem;
+		font-weight: 500;
+	}
+	&__counter {
+		height: calc(100vh - 30rem);
+	}
+	&__count {
+		width: 9rem;
+		text-align: center;
+	}
+}
