@@ -10,6 +10,8 @@ This is the base template created by Rajan Gautam for [Create React App](https:/
 
 [Visit Template Site](https://rgautam320-awesome-react.netlify.app)
 
+[NPM URL](https://www.npmjs.com/package/cra-template-awesome-react)
+
 ## Features
 
 This template is already having the following essential features integrated.
