@@ -4,7 +4,11 @@ This is the base template created by Rajan Gautam for [Create React App](https:/
 
 ### Template Application Working URL:
 
-[VISIT SITE](https://rgautam320-awesome-template.netlify.app)
+[Source Link](https://github.com/rgautam320/Awesome-React/tree/template)
+
+[App Source Link](https://github.com/rgautam320/Awesome-React/tree/application)
+
+[Visit Template Site](https://rgautam320-awesome-template.netlify.app)
 
 ## Features
 
