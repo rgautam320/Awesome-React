@@ -8,7 +8,7 @@ This is the base template created by Rajan Gautam for [Create React App](https:/
 
 [App Source Link](https://github.com/rgautam320/Awesome-React/tree/application)
 
-[Visit Template Site](https://rgautam320-awesome-template.netlify.app)
+[Visit Template Site](https://rgautam320-awesome-react.netlify.app)
 
 ## Features
 
