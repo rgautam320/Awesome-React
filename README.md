@@ -46,7 +46,9 @@ This template is already having the following essential features integrated.
 
 3. The basic setup for Redux-Toolkit has also been done and you can see the Counter app when you run the template app. You can directly start with your Redux application.
 
-4. The folder structure has been maintained in industrial standard.
+4. For SEO, metadata has been added for Google, Facebook, Twitter, LinkedIn, Pinterest, Stack etc.
+
+5. The folder structure has been maintained in industrial standard.
 
 ### Folder Structure
 
