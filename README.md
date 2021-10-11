@@ -2,7 +2,7 @@
 
 This is the base template created by Rajan Gautam for [Create React App](https://github.com/rgautam320/Awesome-React).
 
-### Template Application Working URL:
+### URLs:
 
 [Source Link](https://github.com/rgautam320/Awesome-React/tree/template)
 
@@ -18,35 +18,23 @@ This template is already having the following essential features integrated.
 
 1. All the basic libraries that you use will get installed automatically. You don't need to install them explicitly. Then packages include:
 
-##### `"@material-ui/core": "^4.12.3"`
-
-##### `"@material-ui/icons": "^4.11.2"`
-
-##### `"@reduxjs/toolkit": "^1.6.2"`
-
-##### `"aos": "^2.3.4"`
-
-##### `"axios": "^0.22.0"`
-
-##### `"bootstrap": "^5.1.2"`
-
-##### `"node-sass": "^6.0.1"`
-
-##### `"react-bootstrap": "^1.6.4"`
-
-##### `"react-helmet": "^6.1.0"`
-
-##### `"react-loader-spinner": "^4.0.0"`
-
-##### `"react-redux": "^7.2.5"`
-
-##### `"react-router": "^5.2.1"`
-
-##### `"react-router-dom": "^5.3.0"`
-
-##### `"redux": "^4.1.1"`
-
-##### `"sweetalert": "^2.1.2"`
+```
+"@material-ui/core": "^4.12.3"
+"@material-ui/icons": "^4.11.2"
+"@reduxjs/toolkit": "^1.6.2"
+"aos": "^2.3.4"
+"axios": "^0.22.0"
+"bootstrap": "^5.1.2"
+"node-sass": "^6.0.1"
+"react-bootstrap": "^1.6.4"
+"react-helmet": "^6.1.0"
+"react-loader-spinner": "^4.0.0"
+"react-redux": "^7.2.5"
+"react-router": "^5.2.1"
+"react-router-dom": "^5.3.0"
+"redux": "^4.1.1"
+"sweetalert": "^2.1.2"
+```
 
 2. The routing setup has already been done, so you don't need to worry about the routing. Routing for Error page has already been handled.
 
@@ -54,9 +42,9 @@ This template is already having the following essential features integrated.
 
 4. For SEO, metadata has been added for Google, Facebook, Twitter, LinkedIn, Pinterest, Stack etc.
 
-5. The folder structure has been maintained in industrial standard.
+5. The folder structure has been maintained in industrial standards.
 
-### Folder Structure
+## Folder Structure
 
 ```
 awesome-react
@@ -112,11 +100,11 @@ This folder is for Redux-Toolkit purpose.
 
 This will be your scss folder and there also folder structure has been maintained. Like we have main.scss file, where we're importing all other scss.
 
-###### App.js
+##### App.js
 
 This is the App.js file.
 
-###### index.js
+##### index.js
 
 This is the main index.js file.
 
